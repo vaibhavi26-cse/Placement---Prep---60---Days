@@ -15,10 +15,11 @@ Start Date: **20 June 2026**
 
 ## Progress Tracker
 
-| Day   | Topic  | Problems Solved                                           | Concepts Learned                                                                                                | Status |
-| ----- | ------ | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------ |
-| Day 1 | Arrays | Second Largest Element, Move Zeroes To End, Reverse Array | Two Pointers, Swapping Logic, Edge Cases                                                                        | ✅      |
-| Day 2 | Arrays | Rotate Array, Next Permutation, Majority Element (>n/3)   | Reversal Algorithm, Breakpoint Concept, Lexicographical Order, Moore's Voting Algorithm, Candidate Verification | ✅      |
+| Day   | Topic  | Problems Solved                                                                                      | Concepts Learned                                                                                                      | Status |
+| ----- | ------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------ |
+| Day 1 | Arrays | Second Largest Element, Move Zeroes To End, Reverse Array                                            | Two Pointers, Swapping Logic, Edge Cases                                                                              | ✅      |
+| Day 2 | Arrays | Rotate Array, Next Permutation, Majority Element (>n/3)                                              | Reversal Algorithm, Breakpoint Concept, Lexicographical Order, Moore's Voting Algorithm, Candidate Verification       | ✅      |
+| Day 3 | Arrays | Stock Buy & Sell (Multiple Transactions), Stock Buy & Sell (Single Transaction), Minimize Heights II | Greedy Approach, Minimum Buy Tracking, Sorting Strategy, Split Point Concept, Hidden Test Cases, Debugging Techniques | ✅      |
 
 ---
 
@@ -39,6 +40,17 @@ Start Date: **20 June 2026**
 ✔ Moore's Voting Algorithm (Extended Version)
 ✔ Candidate selection and verification
 ✔ Time Complexity and Space Complexity analysis
+
+### Day 3
+
+✔ Greedy approach for stock buy/sell problems
+✔ Tracking minimum buying price efficiently
+✔ Understanding difference between single and multiple transactions
+✔ Sorting-based approach in Minimize Heights II
+✔ Split point strategy (`+k` on left side, `-k` on right side)
+✔ Handling hidden test cases and edge cases
+✔ Debugging implementation mistakes
+✔ Understanding TLE and optimization techniques
 
 ---
 
@@ -68,13 +80,25 @@ Start Date: **20 June 2026**
 
 │ └── notes.md
 
+│
+
+├── Day-03/
+
+│ ├── buy_and_sell_stock_multiple_transactions.cpp
+
+│ ├── buy_sell_stock_max_one_transaction_allowed.cpp
+
+│ ├── minimize_height_of_towers_by_k.cpp
+
+│ └── notes.md
+
 ---
 
 ## Progress Stats
 
-Completed Days: **2/60**
-Problems Solved: **6**
-Consistency Streak: **2 Days 🔥**
+Completed Days: **3/60**
+Problems Solved: **9**
+Consistency Streak: **3 Days 🔥**
 
 ---
 
