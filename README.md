@@ -15,24 +15,27 @@ Start Date: **20 June 2026**
 
 ## Progress Tracker
 
-| Day   | Topic  | Problems Solved                                                                                      | Concepts Learned                                                                                                      | Status |
-| ----- | ------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------ |
-| Day 1 | Arrays | Second Largest Element, Move Zeroes To End, Reverse Array                                            | Two Pointers, Swapping Logic, Edge Cases                                                                              | ✅      |
-| Day 2 | Arrays | Rotate Array, Next Permutation, Majority Element (>n/3)                                              | Reversal Algorithm, Breakpoint Concept, Lexicographical Order, Moore's Voting Algorithm, Candidate Verification       | ✅      |
-| Day 3 | Arrays | Stock Buy & Sell (Multiple Transactions), Stock Buy & Sell (Single Transaction), Minimize Heights II | Greedy Approach, Minimum Buy Tracking, Sorting Strategy, Split Point Concept, Hidden Test Cases, Debugging Techniques | ✅      |
-| Day 4 | Arrays | Kadane's Algorithm, Maximum Circular Subarray Sum, Maximum Product Subarray, First Missing Positive  | Dynamic Programming, Window Logic, Prefix & Suffix Products, Handling Duplicates, Cyclic Index Reordering             | ✅      |
+| Day | Topic | Problems Solved | Concepts Learned | Status |
+| --- | --- | --- | --- | --- |
+| Day 1 | Arrays | Second Largest Element, Move Zeroes To End, Reverse Array | Two Pointers, Swapping Logic, Edge Cases | ✅ |
+| Day 2 | Arrays | Rotate Array, Next Permutation, Majority Element (>n/3) | Reversal Algorithm, Breakpoint Concept, Lexicographical Order, Moore's Voting Algorithm, Candidate Verification | ✅ |
+| Day 3 | Arrays | Stock Buy & Sell (Multiple Transactions), Stock Buy & Sell (Single Transaction), Minimize Heights II | Greedy Approach, Minimum Buy Tracking, Sorting Strategy, Split Point Concept, Hidden Test Cases, Debugging Techniques | ✅ |
+| Day 4 | Arrays | Kadane's Algorithm, Maximum Circular Subarray Sum, Maximum Product Subarray, First Missing Positive | Dynamic Programming, Window Logic, Prefix & Suffix Products, Handling Duplicates, Cyclic Index Reordering | ✅ |
+| Day 5 | Strings | Add Two Binary Strings, Atoi String Implementation, Check Anagram, Return First Non-Repeating Character | Binary Arithmetic, ASCII Manipulation, Character Frequency Hashing, Sliding Window / Hash Maps | ✅ |
 
 ---
 
 ## Day-wise Learning Summary
 
 ### Day 1
+
 ✔ Array traversal techniques
 ✔ Two pointers approach
 ✔ Swapping logic
 ✔ Handling edge cases
 
 ### Day 2
+
 ✔ Array rotation using reversal technique
 ✔ Understanding breakpoint in Next Permutation
 ✔ Lexicographical order concept
@@ -41,6 +44,7 @@ Start Date: **20 June 2026**
 ✔ Time Complexity and Space Complexity analysis
 
 ### Day 3
+
 ✔ Greedy approach for stock buy/sell problems
 ✔ Tracking minimum buying price efficiently
 ✔ Understanding difference between single and multiple transactions
@@ -51,11 +55,20 @@ Start Date: **20 June 2026**
 ✔ Understanding TLE and optimization techniques
 
 ### Day 4
+
 ✔ Standard Kadane's algorithm tracking local versus global dynamic states
 ✔ Array sequence partitioning tricks via Prefix and Suffix sliding accumulations
 ✔ Circular boundary modular logic utilizing Total Sum offsets against Minimum Subarrays
 ✔ Linear positive sorting index reordering strategies ignoring non-positive bounds
 ✔ Resolving assignment typings, loop parameters, and variable structural bugs
+
+### Day 5
+
+✔ Bitwise-like addition logic on strings with carry propagation
+✔ Handling overflow, sign characters, and leading whitespaces in custom `atoi` implementation
+✔ Frequency tracking using hash maps or fixed-size integer arrays for Anagram checks
+✔ Efficient tracking of first unique character using frequency count and queue/linear-scan
+✔ Documentation and structural note-taking for string-based algorithms
 
 ---
 
@@ -78,21 +91,28 @@ Start Date: **20 June 2026**
 │   ├── buy_sell_stock_max_one_transaction_allowed.cpp
 │   ├── minimize_height_of_towers_by_k.cpp
 │   └── notes.md
-└── Day-04/
-    ├── kadane's_algorithm.cpp
-    ├── maximum_circular_subarray_sum.cpp
-    ├── Maximum_product_subarray.cpp
-    ├── Smallest_missing_psoitive_integer.cpp
-    └── Notes.md
+├── Day-04/
+│   ├── kadane's_algorithm.cpp
+│   ├── maximum_circular_subarray_sum.cpp
+│   ├── Maximum_product_subarray.cpp
+│   ├── Smallest_missing_psoitive_integer.cpp
+│   └── Notes.md
+└── Day-05/
+    ├── add Two binary strings.cpp
+    ├── atoi string implementation.cpp
+    ├── check_anagram.cpp
+    ├── notes.md
+    └── return first non repating char.cpp
+
 ```
 
 ---
 
 ## Progress Stats
 
-Completed Days: **4/60**
-Problems Solved: **13**
-Consistency Streak: **4 Days 🔥**
+Completed Days: **5/60**
+Problems Solved: **17**
+Consistency Streak: **5 Days 🔥**
 
 ---
 
