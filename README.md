@@ -6,7 +6,7 @@
 | Day 4 | Arrays  | Kadane's Algorithm, Maximum Circular Subarray Sum, Maximum Product Subarray, First Missing Positive     | Dynamic Programming, Window Logic, Prefix & Suffix Products, Handling Duplicates, Cyclic Index Reordering                   | ✅      |
 | Day 5 | Strings | Add Two Binary Strings, Atoi String Implementation, Check Anagram, Return First Non-Repeating Character | Binary Arithmetic, ASCII Manipulation, Character Frequency Hashing, Sliding Window / Hash Maps                              | ✅      |
 | Day 6 | Strings | Pattern Searching, Minimum Characters for Palindrome, String Rotations                                  | KMP Algorithm, LPS Array, String Concatenation Trick, String Search, Palindromic Prefix Logic                               | ✅      |
-| Day 7 | Arrays  | Sort 0s,1s,2s , Find H-Index                                                                            | Dutch National Flag Algorithm, Three Pointer Technique, Pointer Movement Logic, Sorting-based Traversal, Condition Analysis | ✅      |
+| Day 7 | Sorting  | Sort 0s,1s,2s , Find H-Index                                                                            | Dutch National Flag Algorithm, Three Pointer Technique, Pointer Movement Logic, Sorting-based Traversal, Condition Analysis | ✅      |
 
 ---
 
