@@ -1,30 +1,15 @@
-| Day   | Topic   | Problems Solved                                                                                         | Concepts Learned                                                                                                            | Status |
-| ----- | ------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Day 1 | Arrays  | Second Largest Element, Move Zeroes To End, Reverse Array                                               | Two Pointers, Swapping Logic, Edge Cases                                                                                    | ✅      |
-| Day 2 | Arrays  | Rotate Array, Next Permutation, Majority Element (>n/3)                                                 | Reversal Algorithm, Breakpoint Concept, Lexicographical Order, Moore's Voting Algorithm, Candidate Verification             | ✅      |
-| Day 3 | Arrays  | Stock Buy & Sell (Multiple Transactions), Stock Buy & Sell (Single Transaction), Minimize Heights II    | Greedy Approach, Minimum Buy Tracking, Sorting Strategy, Split Point Concept, Hidden Test Cases, Debugging Techniques       | ✅      |
-| Day 4 | Arrays  | Kadane's Algorithm, Maximum Circular Subarray Sum, Maximum Product Subarray, First Missing Positive     | Dynamic Programming, Window Logic, Prefix & Suffix Products, Handling Duplicates, Cyclic Index Reordering                   | ✅      |
-| Day 5 | Strings | Add Two Binary Strings, Atoi String Implementation, Check Anagram, Return First Non-Repeating Character | Binary Arithmetic, ASCII Manipulation, Character Frequency Hashing, Sliding Window / Hash Maps                              | ✅      |
-| Day 6 | Strings | Pattern Searching, Minimum Characters for Palindrome, String Rotations                                  | KMP Algorithm, LPS Array, String Concatenation Trick, String Search, Palindromic Prefix Logic                               | ✅      |
-| Day 7 | Sorting  | Sort 0s,1s,2s , Find H-Index                                                                            | Dutch National Flag Algorithm, Three Pointer Technique, Pointer Movement Logic, Sorting-based Traversal, Condition Analysis | ✅      |
-
----
-
-### Day 7
-
-✔ Understood Dutch National Flag Algorithm
-
-✔ Learned three-pointer approach (`low`, `mid`, `high`)
-
-✔ Understood why `mid` is not incremented after swapping with `high`
-
-✔ Improved understanding of pointer movement and element processing
-
-✔ Learned H-Index problem logic and interpretation
-
-✔ Practiced sorting-based traversal and condition checking
-
-✔ Focused on understanding concepts instead of solving in quantity
+| Day    | Topic          | Problems Solved                                                                                         | Concepts Learned                                                                                                            | Status |
+| ------ | -------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Day 1  | Arrays         | Second Largest Element, Move Zeroes To End, Reverse Array                                               | Two Pointers, Swapping Logic, Edge Cases                                                                                    | ✅      |
+| Day 2  | Arrays         | Rotate Array, Next Permutation, Majority Element (>n/3)                                                 | Reversal Algorithm, Breakpoint Concept, Lexicographical Order, Moore's Voting Algorithm, Candidate Verification             | ✅      |
+| Day 3  | Arrays         | Stock Buy & Sell (Multiple Transactions), Stock Buy & Sell (Single Transaction), Minimize Heights II    | Greedy Approach, Minimum Buy Tracking, Sorting Strategy, Split Point Concept, Hidden Test Cases, Debugging Techniques       | ✅      |
+| Day 4  | Arrays         | Kadane's Algorithm, Maximum Circular Subarray Sum, Maximum Product Subarray, First Missing Positive     | Dynamic Programming, Window Logic, Prefix & Suffix Products, Handling Duplicates, Cyclic Index Reordering                   | ✅      |
+| Day 5  | Strings        | Add Two Binary Strings, Atoi String Implementation, Check Anagram, Return First Non-Repeating Character | Binary Arithmetic, ASCII Manipulation, Character Frequency Hashing, Sliding Window / Hash Maps                              | ✅      |
+| Day 6  | Strings        | Pattern Searching, Minimum Characters for Palindrome, String Rotations                                  | KMP Algorithm, LPS Array, String Concatenation Trick, String Search, Palindromic Prefix Logic                               | ✅      |
+| Day 7  | Sorting        | Sort 0s,1s,2s , Find H-Index                                                                            | Dutch National Flag Algorithm, Three Pointer Technique, Pointer Movement Logic, Sorting-based Traversal, Condition Analysis | ✅      |
+| Day 8  | Arrays         | Count Inversions                                                                                        | Merge Sort, Divide and Conquer, Counting During Merge, Recursive Thinking                                                   | ✅      |
+| Day 9  | Revision       | Revision Notes Only                                                                                     | Revision of solved problems, Pattern Recognition, Complexity Revision, Common Mistakes Analysis                             | ✅      |
+| Day 10 | Arrays/Sorting | Merge Two Sorted Arrays Without Extra Space                                                             | Gap Method, Shell Sort Concept, In-place Manipulation, Optimization Techniques                                              | ✅      |
 
 ---
 
@@ -77,13 +62,24 @@
 │   ├── find_h_index.cpp
 │   └── notes.md
 │
+├── Day-08/
+│   ├── count_inversions.cpp
+│   └── notes.md
+│
+├── Day-09/
+│   └── notes.md
+│
+├── Day-10/
+│   ├── merge_without_extra_space.cpp
+│   └── notes.md
+│
 ├── Progress_Screenshots
 ```
 
 ## Progress Stats
 
-Completed Days: **7/60**
+Completed Days: **10/60**
 
-Problems Solved: **22**
+Problems Solved: **24**
 
-Consistency Streak: **7 Days 🔥**
+Consistency Streak: **10 Days 🔥**
