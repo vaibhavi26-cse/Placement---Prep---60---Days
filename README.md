@@ -1,3 +1,61 @@
+# 🚀 60 Days Placement Preparation Journey
+
+Welcome to my **60 Days Placement Preparation Journey**.
+
+This repository documents my complete preparation process for placements with a focus on **consistency, learning, and improvement rather than only solving problems in quantity**.
+
+The goal of this challenge is not just solving DSA questions, but understanding **patterns, logic building, optimization techniques, and core concepts** required for coding interviews and technical growth.
+
+## Goals
+
+✔ Complete the **GFG 160 DSA Sheet**
+
+✔ Strengthen problem-solving ability
+
+✔ Revise important Computer Science fundamentals
+
+✔ Improve debugging and logical thinking
+
+✔ Build consistency and discipline
+
+✔ Document daily progress publicly
+
+✔ Create reusable notes for future revision
+
+---
+
+## What this journey includes
+
+📌 Daily problem solving from **GFG 160 Sheet**
+
+📌 Detailed solutions with optimized approaches
+
+📌 Topic-wise notes and revision material
+
+📌 Time and space complexity analysis
+
+📌 Problem patterns and observations
+
+📌 Common mistakes and learning points
+
+📌 Daily progress tracking
+
+📌 Revision days for concept strengthening
+
+📌 GitHub consistency and learning logs
+
+---
+
+## Current Progress
+
+**Completed Days:** 10/60
+**Problems Solved:** 24
+**Consistency Streak:** 10 Days 🔥
+
+---
+
+## Progress Tracker
+
 | Day    | Topic          | Problems Solved                                                                                         | Concepts Learned                                                                                                            | Status |
 | ------ | -------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Day 1  | Arrays         | Second Largest Element, Move Zeroes To End, Reverse Array                                               | Two Pointers, Swapping Logic, Edge Cases                                                                                    | ✅      |
