@@ -68,7 +68,7 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 8  | Arrays         | Count Inversions                                                                                        | Merge Sort, Divide and Conquer, Counting During Merge, Recursive Thinking                                                   | ✅      |
 | Day 9  | Revision       | Revision Notes Only                                                                                     | Revision of solved problems, Pattern Recognition, Complexity Revision, Common Mistakes Analysis                             | ✅      |
 | Day 10 | Arrays/Sorting | Merge Two Sorted Arrays Without Extra Space                                                             | Gap Method, Shell Sort Concept, In-place Manipulation, Optimization Techniques                                              | ✅      |
-
+| Day 11 | Binary Search | Number of Occurrence, Sorted and Rotated Minimum, Search in Rotated Sorted Array, Peak Element | Binary Search on Rotated Arrays, Peak Search Logic, First & Last Occurrence Pattern, Search Space Reduction | ✅ |
 ---
 
 ## Repository Structure
@@ -130,14 +130,19 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 ├── Day-10/
 │   ├── merge_without_extra_space.cpp
 │   └── notes.md
-│
+├── Day-11/
+│   ├── Number_of_occurrence.cpp
+│   ├── Sorted_and_Rotated_Minimum.cpp
+│   ├── Search_in_Rotated_Sorted_Array.cpp
+│   ├── Peak_element.cpp
+│   └── notes.md
 ├── Progress_Screenshots
 ```
 
 ## Progress Stats
 
-Completed Days: **10/60**
+Completed Days: **11/60**
 
-Problems Solved: **24**
+Problems Solved: **28**
 
-Consistency Streak: **10 Days 🔥**
+Consistency Streak: **11 Days 🔥**
