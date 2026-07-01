@@ -69,6 +69,7 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 9  | Revision       | Revision Notes Only                                                                                     | Revision of solved problems, Pattern Recognition, Complexity Revision, Common Mistakes Analysis                             | ✅      |
 | Day 10 | Arrays/Sorting | Merge Two Sorted Arrays Without Extra Space                                                             | Gap Method, Shell Sort Concept, In-place Manipulation, Optimization Techniques                                              | ✅      |
 | Day 11 | Binary Search | Number of Occurrence, Sorted and Rotated Minimum, Search in Rotated Sorted Array, Peak Element | Binary Search on Rotated Arrays, Peak Search Logic, First & Last Occurrence Pattern, Search Space Reduction | ✅ |
+| Day 12 | Binary Search | Aggressive Cows, Kth Element of Two Sorted Arrays, Allocate Minimum Pages | Binary Search on Answer, Binary Search on Partitions, Maximize Minimum Pattern, Minimize Maximum Pattern, Search Space Optimization | ✅ |
 ---
 
 ## Repository Structure
@@ -136,6 +137,11 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 │   ├── Search_in_Rotated_Sorted_Array.cpp
 │   ├── Peak_element.cpp
 │   └── notes.md
+├── Day-12/
+│   ├── AggressiveCows.cpp
+│   ├── KthElementTwoSortedArrays.cpp
+│   ├── AllocateMinimumPages.cpp
+│   └── Notes.md
 ├── Progress_Screenshots
 ```
 
