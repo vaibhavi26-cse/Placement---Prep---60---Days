@@ -70,6 +70,8 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 10 | Arrays/Sorting | Merge Two Sorted Arrays Without Extra Space                                                             | Gap Method, Shell Sort Concept, In-place Manipulation, Optimization Techniques                                              | ✅      |
 | Day 11 | Binary Search | Number of Occurrence, Sorted and Rotated Minimum, Search in Rotated Sorted Array, Peak Element | Binary Search on Rotated Arrays, Peak Search Logic, First & Last Occurrence Pattern, Search Space Reduction | ✅ |
 | Day 12 | Binary Search | Aggressive Cows, Kth Element of Two Sorted Arrays, Allocate Minimum Pages | Binary Search on Answer, Binary Search on Partitions, Maximize Minimum Pattern, Minimize Maximum Pattern, Search Space Optimization | ✅ |
+| Day 13 | Matrix | Rotate Matrix by 90 Degrees, Spiral Traversal of Matrix | Matrix Transpose, In-place Rotation, Boundary Traversal, Four Pointer Technique, Matrix Traversal Patterns | ✅ |
+| Day 14 | Matrix | Search in Row-Column Sorted Matrix, Search in Row-wise Sorted Matrix, Search in Strictly Sorted Matrix, Set Matrix Zeroes | Staircase Search, Binary Search on Matrix, Matrix Flattening Concept, Marker Technique, Space Optimization | ✅ |
 ---
 
 ## Repository Structure
@@ -142,13 +144,25 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 │   ├── KthElementTwoSortedArrays.cpp
 │   ├── AllocateMinimumPages.cpp
 │   └── Notes.md
+├── Day-13/
+│   ├── Rotate_matrix_by_90_degrees.cpp
+│   ├── spirally_traversing_a_matrix.cpp
+│   └── Notes.md
+│   └── Kth_positive_missing_number_in_a_sorted_array.cpp
+├── Day-14/
+│   ├── Search_in_row_wise_sorted_matrix.cpp
+│   ├── Search_in_row-column_sorted.cpp
+│   ├── Search_in_a_sorted_matrix.cpp
+│   ├── Set_matrix_zeroes.cpp
+│   └── Notes.md
+│
 ├── Progress_Screenshots
 ```
 
 ## Progress Stats
 
-Completed Days: **11/60**
+Completed Days: **14/60**
 
-Problems Solved: **28**
+Problems Solved: **41**
 
-Consistency Streak: **11 Days 🔥**
+Consistency Streak: **14 Days 🔥**
