@@ -48,9 +48,9 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 
 ## Current Progress
 
-**Completed Days:** 10/60
-**Problems Solved:** 24
-**Consistency Streak:** 10 Days 🔥
+**Completed Days:** 23/60
+**Problems Solved:** 57
+**Consistency Streak:** 23 Days 🔥
 
 ---
 
@@ -72,6 +72,15 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 12 | Binary Search | Aggressive Cows, Kth Element of Two Sorted Arrays, Allocate Minimum Pages | Binary Search on Answer, Binary Search on Partitions, Maximize Minimum Pattern, Minimize Maximum Pattern, Search Space Optimization | ✅ |
 | Day 13 | Matrix | Rotate Matrix by 90 Degrees, Spiral Traversal of Matrix | Matrix Transpose, In-place Rotation, Boundary Traversal, Four Pointer Technique, Matrix Traversal Patterns | ✅ |
 | Day 14 | Matrix | Search in Row-Column Sorted Matrix, Search in Row-wise Sorted Matrix, Search in Strictly Sorted Matrix, Set Matrix Zeroes | Staircase Search, Binary Search on Matrix, Matrix Flattening Concept, Marker Technique, Space Optimization | ✅ |
+Day 15	Hashing	Two Sum Problem	Hash Map, Complement Technique	✅
+Day 16	Revision	Hashing Revision Notes	Hash Maps, Matrix Revision, Pattern Recognition	✅
+Day 17	Hashing	Count Pairs with Given Sum, All Triplets with Zero Sum	Frequency Maps, Two Pointers, Duplicate Handling	✅
+Day 18	Hashing	Intersection of Arrays with Duplicates, Union of Arrays with Duplicates	Hash Set, Two Pointers, Duplicate Removal	✅
+Day 19	Hashing	Longest Consecutive Subsequence, Print Anagrams Together	Hashing, Grouping, Frequency Mapping	✅
+Day 20	Hashing	Subarrays with Sum K, Count Subarrays with Given XOR	Prefix Sum, Prefix XOR, Hash Map	✅
+Day 21	Revision	Hashing Revision	Pattern Revision, Prefix Sum & XOR, Hashing Concepts	✅
+Day 22	Two Pointers	Count All Triplets with Given Target Sum	Two Pointers, Duplicate Counting, Combinatorics	✅
+Day 23	Two Pointers	Count Pairs whose Sum is Less than Target	Sorting, Two Pointers, Counting Multiple Pairs	✅
 ---
 
 ## Repository Structure
@@ -155,14 +164,55 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 │   ├── Search_in_a_sorted_matrix.cpp
 │   ├── Set_matrix_zeroes.cpp
 │   └── Notes.md
+├── Day-15/
+│   ├── Two_Sum_Problem.cpp
+│   └── Notes.md
 │
+├── Day-16/
+│   └── Notes.md
+│
+├── Day-17/
+│   ├── Count_pairs_with_given_sum.cpp
+│   ├── all_triplets_with_zero_sum.cpp
+│   └── Notes.md
+│
+├── Day-18/
+│   ├── Intersection_of_arrays_with_duplicates.cpp
+│   ├── Union_of_array_with_duplicates.cpp
+│   └── Notes.md
+│
+├── Day-19/
+│   ├── Longest_consecutive_subsequence.cpp
+│   ├── Print_anagrams.cpp
+│   └── Notes.md
+│
+├── Day-20/
+│   ├── Subarrays_with_sum_k.cpp
+│   ├── Count_subarrays_with_given_XOR.cpp
+│   └── Notes.md
+│
+├── Day-21/
+│   └── Notes.md
+│
+├── Day-22/
+│   ├── Count_all_triplets_with_target_sum.cpp
+│   └── Notes.md
+│
+├── Day-23/
+│   ├── Count_pairs_whose_sum_is_less_than_target.cpp
+│   └── Notes.md
 ├── Progress_Screenshots
 ```
+📊 Progress Statistics
+Metric	Value
+📅 Completed Days	23 / 60
+💻 Problems Solved	57
+📝 Notes Created	22
+🔥 Consistency Streak	23 Days
+📚 Current Topics Covered	Arrays, Strings, Sorting, Binary Search, Matrix, Hashing, Two Pointers
+⭐ Why this Repository?
 
-## Progress Stats
+This repository is more than a collection of coding solutions—it's a structured record of my placement preparation journey. Each day's work focuses on understanding problem-solving patterns, writing optimized solutions, and documenting key learnings for quick revision.
 
-Completed Days: **14/60**
+If you find this repository helpful, feel free to star ⭐ the repository and follow along with my 60-day placement preparation journey!
 
-Problems Solved: **41**
-
-Consistency Streak: **14 Days 🔥**
