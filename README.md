@@ -72,15 +72,15 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 12 | Binary Search | Aggressive Cows, Kth Element of Two Sorted Arrays, Allocate Minimum Pages | Binary Search on Answer, Binary Search on Partitions, Maximize Minimum Pattern, Minimize Maximum Pattern, Search Space Optimization | ✅ |
 | Day 13 | Matrix | Rotate Matrix by 90 Degrees, Spiral Traversal of Matrix | Matrix Transpose, In-place Rotation, Boundary Traversal, Four Pointer Technique, Matrix Traversal Patterns | ✅ |
 | Day 14 | Matrix | Search in Row-Column Sorted Matrix, Search in Row-wise Sorted Matrix, Search in Strictly Sorted Matrix, Set Matrix Zeroes | Staircase Search, Binary Search on Matrix, Matrix Flattening Concept, Marker Technique, Space Optimization | ✅ |
-Day 15	Hashing	Two Sum Problem	Hash Map, Complement Technique	✅
-Day 16	Revision	Hashing Revision Notes	Hash Maps, Matrix Revision, Pattern Recognition	✅
-Day 17	Hashing	Count Pairs with Given Sum, All Triplets with Zero Sum	Frequency Maps, Two Pointers, Duplicate Handling	✅
-Day 18	Hashing	Intersection of Arrays with Duplicates, Union of Arrays with Duplicates	Hash Set, Two Pointers, Duplicate Removal	✅
-Day 19	Hashing	Longest Consecutive Subsequence, Print Anagrams Together	Hashing, Grouping, Frequency Mapping	✅
-Day 20	Hashing	Subarrays with Sum K, Count Subarrays with Given XOR	Prefix Sum, Prefix XOR, Hash Map	✅
-Day 21	Revision	Hashing Revision	Pattern Revision, Prefix Sum & XOR, Hashing Concepts	✅
-Day 22	Two Pointers	Count All Triplets with Given Target Sum	Two Pointers, Duplicate Counting, Combinatorics	✅
-Day 23	Two Pointers	Count Pairs whose Sum is Less than Target	Sorting, Two Pointers, Counting Multiple Pairs	✅
+| Day 15 | Hashing | Two Sum Problem | Hash Map, Complement Technique, Constant Time Lookup | ✅ |
+| Day 16 | Revision | Hashing Revision Notes | Hashing Patterns, Matrix Revision, Common Mistakes, Complexity Analysis | ✅ |
+| Day 17 | Hashing | Count Pairs with Given Sum, All Triplets with Zero Sum | Frequency Maps, Two Pointers, Duplicate Handling, Hashing Optimization | ✅ |
+| Day 18 | Hashing | Intersection of Arrays with Duplicates, Union of Arrays with Duplicates | Hash Set, Two Pointers, Duplicate Removal, Set Operations | ✅ |
+| Day 19 | Hashing | Longest Consecutive Subsequence, Print Anagrams Together | Hash Map, Hash Set, Grouping Strings, Frequency Counting | ✅ |
+| Day 20 | Hashing | Subarrays with Sum K, Count Subarrays with Given XOR | Prefix Sum, Prefix XOR, Hash Map, Running Sum Technique | ✅ |
+| Day 21 | Revision | Hashing Revision Notes | Revision of Hashing Concepts, Prefix Sum & XOR Patterns, Problem Recognition | ✅ |
+| Day 22 | Two Pointers | Count All Triplets with Given Target Sum | Two Pointers, Duplicate Counting, Combination Counting, Sorted Array Techniques | ✅ |
+| Day 23 | Two Pointers | Count Pairs whose Sum is Less than Target | Sorting, Two Pointers, Counting Multiple Pairs, Greedy Pointer Movement | ✅ |
 ---
 
 ## Repository Structure
@@ -203,16 +203,27 @@ Day 23	Two Pointers	Count Pairs whose Sum is Less than Target	Sorting, Two Point
 │   └── Notes.md
 ├── Progress_Screenshots
 ```
-📊 Progress Statistics
-Metric	Value
-📅 Completed Days	23 / 60
-💻 Problems Solved	57
-📝 Notes Created	22
-🔥 Consistency Streak	23 Days
-📚 Current Topics Covered	Arrays, Strings, Sorting, Binary Search, Matrix, Hashing, Two Pointers
-⭐ Why this Repository?
+# 📊 Progress Statistics
 
-This repository is more than a collection of coding solutions—it's a structured record of my placement preparation journey. Each day's work focuses on understanding problem-solving patterns, writing optimized solutions, and documenting key learnings for quick revision.
+| Metric | Value |
+|--------|-------|
+| 📅 Completed Days | **23 / 60** |
+| 💻 Problems Solved | **57** |
+| 📝 Notes Created | **22** |
+| 🔥 Consistency Streak | **23 Days** |
+| 📚 Current Topics Covered | Arrays, Strings, Sorting, Binary Search, Matrix, Hashing, Two Pointers |
 
-If you find this repository helpful, feel free to star ⭐ the repository and follow along with my 60-day placement preparation journey!
+# ⭐ Why this Repository?
 
+This repository is more than just a collection of coding solutions—it's a structured record of my placement preparation journey.
+
+Each day focuses on:
+- 📌 Solving curated DSA problems from the **GFG 160 Sheet**
+- 🧠 Understanding underlying patterns and problem-solving techniques
+- ⚡ Writing optimized C++ solutions
+- 📝 Creating concise revision notes for quick review
+- 📊 Tracking daily consistency and progress
+
+The aim is not only to solve problems but also to build strong logical thinking, improve debugging skills, and prepare effectively for coding interviews.
+
+If you find this repository helpful, consider giving it a **⭐ Star** and follow along as I complete this **60 Days Placement Preparation Journey**!
