@@ -48,9 +48,9 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 
 ## Current Progress
 
-**Completed Days:** 23/60
-**Problems Solved:** 57
-**Consistency Streak:** 23 Days 🔥
+**Completed Days:** 32/60
+**Problems Solved:** 64
+**Consistency Streak:** 32 Days 🔥
 
 ---
 
@@ -81,6 +81,15 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 21 | Revision | Hashing Revision Notes | Revision of Hashing Concepts, Prefix Sum & XOR Patterns, Problem Recognition | ✅ |
 | Day 22 | Two Pointers | Count All Triplets with Given Target Sum | Two Pointers, Duplicate Counting, Combination Counting, Sorted Array Techniques | ✅ |
 | Day 23 | Two Pointers | Count Pairs whose Sum is Less than Target | Sorting, Two Pointers, Counting Multiple Pairs, Greedy Pointer Movement | ✅ |
+| Day 24 | Two Pointers | Pair with Sum Closest to Target | Two Pointers, Minimum Difference, Pointer Movement | ✅ |
+| Day 25 | Two Pointers | Pair with Given Sum in Sorted Array | Two Pointers, Sorted Array Search | ✅ |
+| Day 26 | Two Pointers | Count the Number of Possible Triangles | Sorting, Two Pointers, Triangle Inequality | ✅ |
+| Day 27 | Two Pointers | Trapping Rain Water | Prefix Max, Suffix Max, Space Optimization | ✅ |
+| Day 28 | Sliding Window | Count Distinct Elements in Every Window, Indexes of Subarray Sum | Fixed Size Sliding Window, HashMap, Window Expansion | ✅ |
+| Day 29 | Sliding Window | Longest Substring with Distinct Characters | Variable Size Sliding Window, HashSet, Two Pointers | ✅ |
+| Day 30 | Two Pointers | Container With Most Water | Greedy, Two Pointers, Area Maximization | ✅ |
+| Day 31 | Prefix Sum | Equilibrium Point, Longest Subarray with Sum K | Prefix Sum, Running Sum, HashMap | ✅ |
+| Day 32 | Prefix Sum | Longest Subarray with Equal 0s & 1s, Product Array Puzzle | Prefix Sum, HashMap, Prefix & Suffix Product | ✅ |
 ---
 
 ## Repository Structure
@@ -201,17 +210,54 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 ├── Day-23/
 │   ├── Count_pairs_whose_sum_is_less_than_target.cpp
 │   └── Notes.md
-├── Progress_Screenshots
+├── Day-24/
+│   ├── Sum closest to the target.cpp
+│   └── Notes.md
+│
+├── Day-25/
+│   ├── Pairs_with_given_sum_in_a_sorted_array.cpp
+│   └── Notes.md
+│
+├── Day-26/
+│   ├── Count the no. of possible Triangles.cpp
+│   └── Notes.md
+│
+├── Day-27/
+│   ├── Trapping Rain Water Problem.cpp
+│   └── Notes.md
+│
+├── Day-28/
+│   ├── Count Distinct elements in every Window.cpp
+│   ├── Indexes Of Subarray Sum.cpp
+│   └── Notes.md
+│
+├── Day-29/
+│   ├── Longest Substring with Distinct Characters.cpp
+│   └── Notes.md
+│
+├── Day-30/
+│   ├── Container with Most Water.cpp
+│   └── Notes.md
+│
+├── Day-31/
+│   ├── Equilibrium point problem.cpp
+│   ├── longest subarray sum k.cpp
+│   └── Notes.md
+│
+├── Day-32/
+    ├── Longest subarray of 0's and 1's.cpp
+    ├── Product Array Puzzle.cpp
+    └── Notes.md
 ```
 # 📊 Progress Statistics
 
 | Metric | Value |
 |--------|-------|
-| 📅 Completed Days | **23 / 60** |
-| 💻 Problems Solved | **57** |
-| 📝 Notes Created | **22** |
-| 🔥 Consistency Streak | **23 Days** |
-| 📚 Current Topics Covered | Arrays, Strings, Sorting, Binary Search, Matrix, Hashing, Two Pointers |
+| 📅 Completed Days | **32 / 60** |
+| 💻 Problems Solved | **64** |
+| 📝 Notes Created | **32** |
+| 🔥 Consistency Streak | **32 Days** |
+| 📚 Current Topics Covered | Arrays, Strings, Sorting, Binary Search, Matrix, Hashing, Two Pointers,Prefix sum |
 
 # ⭐ Why this Repository?
 
