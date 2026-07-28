@@ -48,9 +48,9 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 
 ## Current Progress
 
-**Completed Days:** 32/60
-**Problems Solved:** 64
-**Consistency Streak:** 32 Days 🔥
+**Completed Days:** 40/60
+**Problems Solved:** 71
+**Consistency Streak:** 40 Days 🔥
 
 ---
 
@@ -90,6 +90,14 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 30 | Two Pointers | Container With Most Water | Greedy, Two Pointers, Area Maximization | ✅ |
 | Day 31 | Prefix Sum | Equilibrium Point, Longest Subarray with Sum K | Prefix Sum, Running Sum, HashMap | ✅ |
 | Day 32 | Prefix Sum | Longest Subarray with Equal 0s & 1s, Product Array Puzzle | Prefix Sum, HashMap, Prefix & Suffix Product | ✅ |
+| Day 33 | Recursion & Backtracking | Introduction to Recursion and Backtracking | Recursive Thinking, Call Stack, Base Case, Backtracking Fundamentals | ✅ |
+| Day 34 | Backtracking | Distinct Permutations | Recursion Tree, Visited Array, Duplicate Skipping, Backtracking Pattern | ✅ |
+| Day 35 | Backtracking | N-Queens | Constraint Checking, Column & Diagonal Validation, State Restoration | ✅ |
+| Day 36 | Recursion | Implement Pow(x, n) | Divide & Conquer, Exponentiation by Squaring, Logarithmic Recursion | ✅ |
+| Day 37 | Backtracking | Sudoku Solver | Constraint Satisfaction, Recursive Search, Pruning, Grid Backtracking | ✅ |
+| Day 38 | Backtracking | Word Search | DFS on Grid, Visited Marking, Path Exploration, Backtracking | ✅ |
+| Day 39 | Linked List | Reverse a Linked List | Three Pointer Technique, Pointer Manipulation, Iterative Reversal | ✅ |
+| Day 40 | Linked List | Rotate a Linked List | Circular Linked List, Pointer Manipulation, Rotation Logic | ✅ |
 ---
 
 ## Repository Structure
@@ -245,9 +253,40 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 │   └── Notes.md
 │
 ├── Day-32/
-    ├── Longest subarray of 0's and 1's.cpp
-    ├── Product Array Puzzle.cpp
-    └── Notes.md
+|    ├── Longest subarray of 0's and 1's.cpp
+|    ├── Product Array Puzzle.cpp
+|    └── Notes.md
+├── Day-33/
+│   └── Notes.md
+│
+├── Day-34/
+│   ├── Distinct Permutations.cpp
+│   └── Notes.md
+│
+├── Day-35/
+│   ├── N-Queens.cpp
+│   └── Notes.md
+│
+├── Day-36/
+│   ├── Implement Pow.cpp
+│   └── Notes.md
+│
+├── Day-37/
+│   ├── Sudoku solver.cpp
+│   └── Notes.md
+│
+├── Day-38/
+│   ├── Word search.cpp
+│   └── Notes.md
+│
+├── Day-39/
+│   ├── Reverse a Linked List.cpp
+│   └── Notes.md
+│
+├── Day-40/
+│   ├── Rotate linked list.cpp
+│   └── Notes.md
+└── README.md
 ```
 # 📊 Progress Statistics
 
