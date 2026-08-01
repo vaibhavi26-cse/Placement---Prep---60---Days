@@ -48,9 +48,9 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 
 ## Current Progress
 
-**Completed Days:** 40/60
-**Problems Solved:** 71
-**Consistency Streak:** 40 Days 🔥
+**Completed Days:** 44/60
+**Problems Solved:** 75
+**Consistency Streak:** 44 Days 🔥
 
 ---
 
@@ -98,6 +98,10 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 38 | Backtracking | Word Search | DFS on Grid, Visited Marking, Path Exploration, Backtracking | ✅ |
 | Day 39 | Linked List | Reverse a Linked List | Three Pointer Technique, Pointer Manipulation, Iterative Reversal | ✅ |
 | Day 40 | Linked List | Rotate a Linked List | Circular Linked List, Pointer Manipulation, Rotation Logic | ✅ |
+| Day 41 | Linked List | Merge Two Sorted Linked Lists | Two Pointers, Dummy Node, In-place Merging, Pointer Manipulation | ✅ |
+| Day 42 | Linked List | Reverse Linked List in Groups of Given Size | Linked List Reversal, Recursion, Pointer Manipulation, Group Reversal | ✅ |
+| Day 43 | Linked List | Add Number Linked Lists | Linked List Reversal, Carry Handling, Dummy Node, Pointer Manipulation | ✅ |
+| Day 44 | Linked List | Clone List with Next and Random | Deep Copy, Random Pointer, In-place Cloning, O(1) Space Optimization | ✅ |
 ---
 
 ## Repository Structure
@@ -285,17 +289,33 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 │
 ├── Day-40/
 │   ├── Rotate linked list.cpp
+|   └── Notes.md
+├── Day-41/
+│   ├── Merge two sorted lists.cpp
 │   └── Notes.md
+│
+├── Day-42/
+│   ├── Linked list group reverse.cpp
+│   └── Notes.md
+│
+├── Day-43/
+│   ├── Add no. linked list.cpp
+│   └── Notes.md
+│
+├── Day-44/
+│   ├── Clone List with Next and Random.cpp
+│   └── Notes.md
+│
+└── README.md
 └── README.md
 ```
 # 📊 Progress Statistics
 
 | Metric | Value |
 |--------|-------|
-| 📅 Completed Days | **32 / 60** |
-| 💻 Problems Solved | **64** |
-| 📝 Notes Created | **32** |
-| 🔥 Consistency Streak | **32 Days** |
+| 📅 Completed Days | **44/ 60** |
+| 💻 Problems Solved | **75** |
+| 🔥 Consistency Streak | **44 Days** |
 | 📚 Current Topics Covered | Arrays, Strings, Sorting, Binary Search, Matrix, Hashing, Two Pointers,Prefix sum |
 
 # ⭐ Why this Repository?
