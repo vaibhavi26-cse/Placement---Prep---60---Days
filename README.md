@@ -48,10 +48,9 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 
 ## Current Progress
 
-**Completed Days:** 44/60
-**Problems Solved:** 75
-**Consistency Streak:** 44 Days 🔥
-
+Completed Days: 47/60
+Problems Solved: 79
+Consistency Streak: 47 Days 🔥
 ---
 
 ## Progress Tracker
@@ -102,6 +101,7 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 | Day 42 | Linked List | Reverse Linked List in Groups of Given Size | Linked List Reversal, Recursion, Pointer Manipulation, Group Reversal | ✅ |
 | Day 43 | Linked List | Add Number Linked Lists | Linked List Reversal, Carry Handling, Dummy Node, Pointer Manipulation | ✅ |
 | Day 44 | Linked List | Clone List with Next and Random | Deep Copy, Random Pointer, In-place Cloning, O(1) Space Optimization | ✅ |
+
 ---
 
 ## Repository Structure
@@ -306,16 +306,27 @@ The goal of this challenge is not just solving DSA questions, but understanding 
 │   ├── Clone List with Next and Random.cpp
 │   └── Notes.md
 │
-└── README.md
+├── Day-45/
+│   ├── Detect Loop in Linked List.cpp
+│   ├── First Node of Loop in Linked List.cpp
+│   └── Notes.md
+│
+├── Day-46/
+│   ├── Remove Cycle in Linked List.cpp
+│   └── Notes.md
+│
+├── Day-47/
+│   ├── Mastering the LRU Cache.cpp
+│   └── Notes.md
 └── README.md
 ```
 # 📊 Progress Statistics
 
 | Metric | Value |
 |--------|-------|
-| 📅 Completed Days | **44/ 60** |
-| 💻 Problems Solved | **75** |
-| 🔥 Consistency Streak | **44 Days** |
+| 📅 Completed Days | **47/ 60** |
+| 💻 Problems Solved | **79** |
+| 🔥 Consistency Streak | **47Days** |
 | 📚 Current Topics Covered | Arrays, Strings, Sorting, Binary Search, Matrix, Hashing, Two Pointers,Prefix sum |
 
 # ⭐ Why this Repository?
